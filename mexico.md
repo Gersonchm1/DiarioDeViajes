@@ -6,4 +6,5 @@
 ## foto 
 ![mexico](https://estoesfrancia.com/wp-content/uploads/2024/04/subir-torre-eiffel.jpg)
 
-- #
+- #informacion
+- la comida es muy picante
